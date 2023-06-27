@@ -5,6 +5,6 @@ resource "aws_key_pair" "deployer" {
     Team = "DevOps"
     Env = "Dev"
     Name = "Kaizen"
-    }
-    
+    } 
+
 }
